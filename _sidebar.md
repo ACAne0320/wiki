@@ -8,7 +8,6 @@
   - [作品集](space/works.md)
   - [游戏活动](legacy/activities.md)
   - [历史考古](legacy/)
-  - [Planet NyaaCat](wiki/planet-nyaacat.md)
 - 喵窝世界
   - [新人指南](nyaa/beginners-guide.md)
   - [常见问题](wiki/faq.md)
@@ -18,6 +17,14 @@
   - [资源获取:公用生产设施](nyaa/public-facilities.md)
   - [维度列表](nyaa/worlds.md)
   - [创造激励计划](nyaa/creation.md)
+- 毛线世界
+  - [新人指南](kedama/beginners-guide.md)
+  - [常见问题](kedama/faq.md)
+  - [毛线规则](kedama/rules.md)
+  - [经济规则](kedama/economy.md)
+  - [世界列表](kedama/worlds.md)
+  - [公共设施/资源目录](kedama/public-facilities.md)
+  - [城镇/聚落图鉴](kedama/towns.md)
 - 实用帮助
   - [插件帮助 :four_leaf_clover:](tutorial/plugins.md)
   - [交通导航](tutorial/map-navi.md)

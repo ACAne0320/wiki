@@ -2,8 +2,6 @@
 
 本页面用于保存上古玩家们对服务器历史的考究。
 
-## 历史文献、参考总览
-
 ?> :monkey_face: **喵窝 & 毛线创世之前**
 
 👉[Archive 服务器](wiki/server-network#archive)
@@ -19,9 +17,9 @@
   + [NPC 向导](legacy/nyaa/npc)
   + [世界建设工程](legacy/nyaa/projects)
   + [传送中心](legacy/nyaa/teleport-center)
-  + [银行系统](legacy/nyaa/economics/nyaabank)及其[操作手册](legacy/tutorial/plugins/nyaabank-instructions)
-  + [NyaaUtils](legacy/nyaa/economics/nyaautils)
-  + [经济流动辅助插件 HEH](legacy/tutorial/plugins/hamsterecohelper.md)
+  + [银行系统](legacy/nyaa/economics/nyaabank)及其[操作手册](legacy/nyaa/tutorial/plugins/nyaabank-instructions)
+  + [NyaaUtils](legacy/nyaa/tutorial/plugins/nyaautils.md)
+  + [经济流动辅助插件 HEH](legacy/nyaa/tutorial/plugins/hamsterecohelper.md)
 
 
 - 历史文献
@@ -30,6 +28,7 @@
   + [用户组](legacy/nyaa/permission-groups)
   + 《[飞行之书](space/book-of-elytra)》
   + <span class="nw-spoiler">《[有关『风茗岛』的传说](space/legend-of-fengming-island)》</span>
+  + [Planet NyaaCat](legacy/nyaa/planet-nyaacat)
 
 
 - 人类活动遗存
